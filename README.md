@@ -6,8 +6,7 @@ Oral presentation:C01 Conservation (3月16日 9:15-12:00 Room C)
 [Presentation abstract](https://esj.ne.jp/meeting/abst/71/C01-07.html)
 
 
-Interactive risk map can be accessed bellow.
+Interactive risk map
+* [*Neocaridina davidi* シナヌマエビ](https://uranus238.github.io/freshwater_shrimp_invasion/Nd.html)
 
-[*Neocaridina davidi* シナヌマエビ](https://uranus238.github.io/freshwater_shrimp_invasion/Nd.html)
-
-[*Palaemon sinensis* チュウゴクスジエビ](https://uranus238.github.io/freshwater_shrimp_invasion/Ps.html)
+* [*Palaemon sinensis* チュウゴクスジエビ](https://uranus238.github.io/freshwater_shrimp_invasion/Ps.html)
