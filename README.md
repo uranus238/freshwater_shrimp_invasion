@@ -2,4 +2,4 @@
 
 [*Neocaridina davidi* シナヌマエビ](https://uranus238.github.io/freshwater_shrimp_invasion/Nd.html)
 
-[*Paraemon sinensis* チュウゴクスジエビ](https://uranus238.github.io/freshwater_shrimp_invasion/Ps.html)
+[*Palaemon sinensis* チュウゴクスジエビ](https://uranus238.github.io/freshwater_shrimp_invasion/Ps.html)
